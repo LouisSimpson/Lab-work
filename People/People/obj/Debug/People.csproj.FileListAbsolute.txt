@@ -1,0 +1,34 @@
+E:\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe.config
+E:\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe
+E:\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.pdb
+E:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Form1.resources
+E:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Properties.Resources.resources
+E:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csproj.GenerateResource.Cache
+E:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.exe
+E:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.pdb
+G:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+G:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Form1.resources
+G:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Properties.Resources.resources
+G:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csproj.GenerateResource.Cache
+G:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.exe
+G:\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.pdb
+G:\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe.config
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe.config
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.exe
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.pdb
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Form1.resources
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Properties.Resources.resources
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csproj.GenerateResource.Cache
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe
+E:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.pdb
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe.config
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.exe
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.pdb
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.exe
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\bin\Debug\People.pdb
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Form1.resources
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.Properties.Resources.resources
+G:\Advanced programming\CSharpProjects\CTEC2902Labs\People\People\obj\Debug\People.csproj.GenerateResource.Cache

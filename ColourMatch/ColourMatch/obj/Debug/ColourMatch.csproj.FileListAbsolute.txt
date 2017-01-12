@@ -1,0 +1,16 @@
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\bin\Debug\ColourMatch.exe.config
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.csprojResolveAssemblyReference.cache
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.Form1.resources
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.Properties.Resources.resources
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.csproj.GenerateResource.Cache
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\bin\Debug\ColourMatch.exe.config
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.Form1.resources
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.Properties.Resources.resources
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.csproj.GenerateResource.Cache
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\bin\Debug\ColourMatch.exe
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\bin\Debug\ColourMatch.pdb
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.exe
+E:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.pdb
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.exe
+G:\CSharpProjects\CTEC2902Labs\ColourMatch\ColourMatch\obj\Debug\ColourMatch.pdb
